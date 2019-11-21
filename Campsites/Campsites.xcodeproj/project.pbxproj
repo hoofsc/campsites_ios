@@ -139,11 +139,8 @@
 		7CFDF3052377CDAE00CFB477 /* Campsites */ = {
 			isa = PBXGroup;
 			children = (
-				7CFDF3D1238644EE00CFB477 /* App */,
 				7CFDF37123835CDB00CFB477 /* DCI */,
-				7CFDF37923835EA400CFB477 /* MainMap */,
-				7CFDF3842383DC0400CFB477 /* CamperDetail */,
-				7CFDF3D4238647BC00CFB477 /* CampsiteDetail */,
+				7CFDF3D1238644EE00CFB477 /* App */,
 				7CFDF37623835D6900CFB477 /* Extensions */,
 				7CFDF33C2377D1BA00CFB477 /* Models */,
 				7CFDF37F238376E400CFB477 /* Services */,
@@ -246,6 +243,9 @@
 				7CFDF36F23835CC500CFB477 /* AppContext.swift */,
 				7CFDF36D23835CAE00CFB477 /* AppEnvironment.swift */,
 				7CFDF3D22386455500CFB477 /* Dependencies.swift */,
+				7CFDF37923835EA400CFB477 /* MainMap */,
+				7CFDF3D4238647BC00CFB477 /* CampsiteDetail */,
+				7CFDF3842383DC0400CFB477 /* CamperDetail */,
 			);
 			path = App;
 			sourceTree = "<group>";

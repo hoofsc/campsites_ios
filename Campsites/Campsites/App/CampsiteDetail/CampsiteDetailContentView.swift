@@ -132,4 +132,3 @@ internal class CampsiteDetailContentView: UIView {
         NSLayoutConstraint.activate(constraints)
     }
 }
-
