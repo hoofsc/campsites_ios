@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1231",
+        "first_name": "Alvin",
+        "last_name": "Johnson",
+        "phone": "800-555-1212",
+        "location": {
+            "latitude": 48.6596,
+            "longitude": -113.7870,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155668
+        }
+    },
+    {
+        "id": "2342",
+        "first_name": "Leroy",
+        "last_name": "Jenkins",
+        "phone": "800-555-1213",
+        "location": {
+            "latitude": 48.7596,
+            "longitude": -113.8570,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155768
+        }
+    },
+    {
+        "id": "3453",
+        "first_name": "Charlie",
+        "last_name": "Anderson",
+        "phone": "800-555-1214",
+        "location": {
+            "latitude": 48.894872,
+            "longitude": -113.84,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155868
+        }
+    },
+    {
+        "id": "4564",
+        "first_name": "Elliot",
+        "last_name": "Alderson",
+        "phone": "800-555-1215",
+        "location": {
+            "latitude": 48.874842,
+            "longitude": -113.917532,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155868
+        }
+    },
+    {
+        "id": "5675",
+        "first_name": "Ned",
+        "last_name": "Stark",
+        "phone": "800-555-1216",
+        "location": {
+            "latitude": 48.915163,
+            "longitude": -113.799758,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155868
+        }
+    }
+]

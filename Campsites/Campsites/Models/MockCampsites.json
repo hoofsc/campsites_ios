@@ -1,0 +1,82 @@
+[
+    {
+        "id": "123",
+        "name": "Campsite Alpha",
+        "description": "Location of Campsite Alpha",
+        "isClosed": false,
+        "location": {
+            "latitude": 48.7596,
+            "longitude": -113.7870,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155668
+        }
+    },
+    {
+        "id": "234",
+        "name": "Campsite Bravo",
+        "description": "Location of Campsite Bravo",
+        "isClosed": false,
+        "location": {
+            "latitude": 48.930959,
+            "longitude": -113.716133,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155768
+        }
+    },
+    {
+        "id": "345",
+        "name": "Campsite Charlie",
+        "description": "Location of Campsite Charlie",
+        "isClosed": false,
+        "location": {
+            "latitude": 48.944872,
+            "longitude": -113.898522,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155868
+        }
+    },
+    {
+        "id": "456",
+        "name": "Campsite Delta",
+        "description": "Location of Campsite Delta",
+        "isClosed": false,
+        "location": {
+            "latitude": 48.934842,
+            "longitude": -113.997532,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155868
+        }
+    },
+    {
+        "id": "567",
+        "name": "Campsite Echo",
+        "description": "Location of Campsite Echo",
+        "isClosed": false,
+        "location": {
+            "latitude": 48.855163,
+            "longitude": -113.859758,
+            "altitude": 0.0,
+            "horizontalAccuracy": 0.0,
+            "verticalAccuracy": 0.0,
+            "speed": 0.0,
+            "course": 0.0,
+            "timestamp": 1571155868
+        }
+    }
+]
